@@ -1,0 +1,369 @@
+v 20100214 2
+P 0 3800 300 3800 1 0 0
+{
+T 0 3800 5 10 0 0 0 0 1
+pintype=io
+T 355 3795 9 8 1 1 0 0 1
+pinlabel=\_RESET\_/PIO0_0
+T 205 3845 5 8 1 1 0 6 1
+pinnumber=2
+T 0 3800 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 3600 300 3600 1 0 0
+{
+T 0 3600 5 10 0 0 0 0 1
+pintype=io
+T 355 3595 9 8 1 1 0 0 1
+pinlabel=PIO0_1/CLKOUT/CT32B0_MAT2/USB_FTOGGLE
+T 205 3645 5 8 1 1 0 6 1
+pinnumber=3
+T 0 3600 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 3400 300 3400 1 0 0
+{
+T 0 3400 5 10 0 0 0 0 1
+pintype=io
+T 355 3395 9 8 1 1 0 0 1
+pinlabel=PIO0_2/SSEL/CT16B0_CAP0
+T 205 3445 5 8 1 1 0 6 1
+pinnumber=8
+T 0 3400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 3200 300 3200 1 0 0
+{
+T 0 3200 5 10 0 0 0 0 1
+pintype=io
+T 355 3195 9 8 1 1 0 0 1
+pinlabel=PIO0_3/USB_VBUS
+T 205 3245 5 8 1 1 0 6 1
+pinnumber=9
+T 0 3200 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 3000 300 3000 1 0 0
+{
+T 0 3000 5 10 0 0 0 0 1
+pintype=io
+T 355 2995 9 8 1 1 0 0 1
+pinlabel=PIO0_4/SCL
+T 205 3045 5 8 1 1 0 6 1
+pinnumber=10
+T 0 3000 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 2800 300 2800 1 0 0
+{
+T 0 2800 5 10 0 0 0 0 1
+pintype=io
+T 355 2795 9 8 1 1 0 0 1
+pinlabel=PIO0_5/SDA
+T 205 2845 5 8 1 1 0 6 1
+pinnumber=11
+T 0 2800 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 2600 300 2600 1 0 0
+{
+T 0 2600 5 10 0 0 0 0 1
+pintype=io
+T 355 2595 9 8 1 1 0 0 1
+pinlabel=PIO0_6/\_USB_CONNECT\_/SCK
+T 205 2645 5 8 1 1 0 6 1
+pinnumber=15
+T 0 2600 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 2400 300 2400 1 0 0
+{
+T 0 2400 5 10 0 0 0 0 1
+pintype=io
+T 355 2395 9 8 1 1 0 0 1
+pinlabel=PIO0_7/\_CTS\_
+T 205 2445 5 8 1 1 0 6 1
+pinnumber=16
+T 0 2400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 2200 300 2200 1 0 0
+{
+T 0 2200 5 10 0 0 0 0 1
+pintype=io
+T 355 2195 9 8 1 1 0 0 1
+pinlabel=PIO0_8/MISO/CT16B0_MAT0
+T 205 2245 5 8 1 1 0 6 1
+pinnumber=17
+T 0 2200 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 2000 300 2000 1 0 0
+{
+T 0 2000 5 10 0 0 0 0 1
+pintype=io
+T 355 1995 9 8 1 1 0 0 1
+pinlabel=PIO0_9/MOSI/CT16B0_MAT1/SWO
+T 205 2045 5 8 1 1 0 6 1
+pinnumber=18
+T 0 2000 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1800 300 1800 1 0 0
+{
+T 0 1800 5 10 0 0 0 0 1
+pintype=io
+T 355 1795 9 8 1 1 0 0 1
+pinlabel=SWCLK/PIO0_10/SCK/CT16B0_MAT2
+T 205 1845 5 8 1 1 0 6 1
+pinnumber=19
+T 0 1800 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1600 300 1600 1 0 0
+{
+T 0 1600 5 10 0 0 0 0 1
+pintype=io
+T 355 1595 9 8 1 1 0 0 1
+pinlabel=R/PIO0_11/AD0/CT32B0_MAT3
+T 205 1645 5 8 1 1 0 6 1
+pinnumber=21
+T 0 1600 5 10 0 0 0 0 1
+pinseq=0
+}
+P 6600 3800 6300 3800 1 0 0
+{
+T 6600 3800 5 10 0 0 0 6 1
+pintype=io
+T 6245 3795 9 8 1 1 0 6 1
+pinlabel=PIO1_0/AD1/CT32B1_CAP0
+T 6395 3845 5 8 1 1 0 0 1
+pinnumber=22
+T 6600 3800 5 10 0 0 0 6 1
+pinseq=0
+}
+P 6600 3600 6300 3600 1 0 0
+{
+T 6600 3600 5 10 0 0 0 6 1
+pintype=io
+T 6245 3595 9 8 1 1 0 6 1
+pinlabel=R/PIO1_1/AD2/CT32B1_MAT0
+T 6395 3645 5 8 1 1 0 0 1
+pinnumber=23
+T 6600 3600 5 10 0 0 0 6 1
+pinseq=0
+}
+P 6600 3400 6300 3400 1 0 0
+{
+T 6600 3400 5 10 0 0 0 6 1
+pintype=io
+T 6245 3395 9 8 1 1 0 6 1
+pinlabel=R/PIO1_2/AD3/CT32B1_MAT1
+T 6395 3445 5 8 1 1 0 0 1
+pinnumber=24
+T 6600 3400 5 10 0 0 0 6 1
+pinseq=0
+}
+P 6600 3200 6300 3200 1 0 0
+{
+T 6600 3200 5 10 0 0 0 6 1
+pintype=io
+T 6245 3195 9 8 1 1 0 6 1
+pinlabel=SWDIO/PIO1_3/AD4/CT32B1_MAT2
+T 6395 3245 5 8 1 1 0 0 1
+pinnumber=25
+T 6600 3200 5 10 0 0 0 6 1
+pinseq=0
+}
+P 6600 3000 6300 3000 1 0 0
+{
+T 6600 3000 5 10 0 0 0 6 1
+pintype=io
+T 6245 2995 9 8 1 1 0 6 1
+pinlabel=PIO1_4/AD5/CT32B1_MAT3/WAKEUP
+T 6395 3045 5 8 1 1 0 0 1
+pinnumber=26
+T 6600 3000 5 10 0 0 0 6 1
+pinseq=0
+}
+P 6600 2800 6300 2800 1 0 0
+{
+T 6600 2800 5 10 0 0 0 6 1
+pintype=io
+T 6245 2795 9 8 1 1 0 6 1
+pinlabel=PIO1_5/\_RTS\_/CT32B0_CAP0
+T 6395 2845 5 8 1 1 0 0 1
+pinnumber=30
+T 6600 2800 5 10 0 0 0 6 1
+pinseq=0
+}
+P 6600 2600 6300 2600 1 0 0
+{
+T 6600 2600 5 10 0 0 0 6 1
+pintype=io
+T 6245 2595 9 8 1 1 0 6 1
+pinlabel=PIO1_6/RXD/CT32B0_MAT0
+T 6395 2645 5 8 1 1 0 0 1
+pinnumber=31
+T 6600 2600 5 10 0 0 0 6 1
+pinseq=0
+}
+P 6600 2400 6300 2400 1 0 0
+{
+T 6600 2400 5 10 0 0 0 6 1
+pintype=io
+T 6245 2395 9 8 1 1 0 6 1
+pinlabel=PIO1_7/TXD/CT32B0_MAT1
+T 6395 2445 5 8 1 1 0 0 1
+pinnumber=32
+T 6600 2400 5 10 0 0 0 6 1
+pinseq=0
+}
+P 6600 2200 6300 2200 1 0 0
+{
+T 6600 2200 5 10 0 0 0 6 1
+pintype=io
+T 6245 2195 9 8 1 1 0 6 1
+pinlabel=PIO1_8CT16B1_CAP0
+T 6395 2245 5 8 1 1 0 0 1
+pinnumber=7
+T 6600 2200 5 10 0 0 0 6 1
+pinseq=0
+}
+P 6600 2000 6300 2000 1 0 0
+{
+T 6600 2000 5 10 0 0 0 6 1
+pintype=io
+T 6245 1995 9 8 1 1 0 6 1
+pinlabel=PIO1_9/CT16B1_MAT0
+T 6395 2045 5 8 1 1 0 0 1
+pinnumber=12
+T 6600 2000 5 10 0 0 0 6 1
+pinseq=0
+}
+P 6600 1800 6300 1800 1 0 0
+{
+T 6600 1800 5 10 0 0 0 6 1
+pintype=io
+T 6245 1795 9 8 1 1 0 6 1
+pinlabel=PIO1_10/AD6/CT16B1_MAT1
+T 6395 1845 5 8 1 1 0 0 1
+pinnumber=20
+T 6600 1800 5 10 0 0 0 6 1
+pinseq=0
+}
+P 6600 1600 6300 1600 1 0 0
+{
+T 6600 1600 5 10 0 0 0 6 1
+pintype=io
+T 6245 1595 9 8 1 1 0 6 1
+pinlabel=PIO1_11/AD7
+T 6395 1645 5 8 1 1 0 0 1
+pinnumber=27
+T 6600 1600 5 10 0 0 0 6 1
+pinseq=0
+}
+P 0 1200 300 1200 1 0 0
+{
+T 0 1200 5 10 0 0 0 0 1
+pintype=io
+T 355 1195 9 8 1 1 0 0 1
+pinlabel=PIO2_0/\_DTR\_
+T 205 1245 5 8 1 1 0 6 1
+pinnumber=1
+T 0 1200 5 10 0 0 0 0 1
+pinseq=0
+}
+P 6600 1200 6300 1200 1 0 0
+{
+T 5700 1200 5 10 0 0 0 0 1
+pintype=io
+T 6245 1195 9 8 1 1 0 6 1
+pinlabel=PIO3_2
+T 6395 1245 5 8 1 1 0 0 1
+pinnumber=28
+T 5700 1200 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 800 300 800 1 0 0
+{
+T 0 800 5 10 0 0 0 0 1
+pintype=io
+T 355 795 9 8 1 1 0 0 1
+pinlabel=USB_DM
+T 205 845 5 8 1 1 0 6 1
+pinnumber=13
+T 0 800 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 600 300 600 1 0 0
+{
+T 0 600 5 10 0 0 0 0 1
+pintype=io
+T 355 595 9 8 1 1 0 0 1
+pinlabel=USB_DP
+T 205 645 5 8 1 1 0 6 1
+pinnumber=14
+T 0 600 5 10 0 0 0 0 1
+pinseq=0
+}
+P 6600 800 6300 800 1 0 0
+{
+T 6600 800 5 10 0 0 0 6 1
+pintype=in
+T 6245 795 9 8 1 1 0 6 1
+pinlabel=XTALIN
+T 6395 845 5 8 1 1 0 0 1
+pinnumber=4
+T 6600 800 5 10 0 0 0 6 1
+pinseq=0
+}
+P 6600 600 6300 600 1 0 0
+{
+T 6600 600 5 10 0 0 0 6 1
+pintype=out
+T 6245 595 9 8 1 1 0 6 1
+pinlabel=XTALOUT
+T 6395 645 5 8 1 1 0 0 1
+pinnumber=5
+T 6600 600 5 10 0 0 0 6 1
+pinseq=0
+}
+P 3200 4600 3200 4300 1 0 0
+{
+T 3200 4600 5 10 0 0 90 6 1
+pintype=pwr
+T 3200 4245 9 8 1 1 90 6 1
+pinlabel=VDD
+T 3150 4395 5 8 1 1 90 0 1
+pinnumber=6
+T 3200 4600 5 10 0 0 90 6 1
+pinseq=0
+}
+P 3400 4600 3400 4300 1 0 0
+{
+T 3400 4600 5 10 0 0 90 6 1
+pintype=pwr
+T 3400 4245 9 8 1 1 90 6 1
+pinlabel=VDD
+T 3350 4395 5 8 1 1 90 0 1
+pinnumber=29
+T 3400 4600 5 10 0 0 90 6 1
+pinseq=0
+}
+P 3300 0 3300 300 1 0 0
+{
+T 3300 0 5 10 0 0 90 0 1
+pintype=pwr
+T 3300 355 9 8 1 1 90 0 1
+pinlabel=VSS
+T 3250 205 5 8 1 1 90 6 1
+pinnumber=33
+T 3300 0 5 10 0 0 90 0 1
+pinseq=0
+}
+B 300 300 6000 4000 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 400 4400 8 8 1 1 0 0 1
+device=LPC1342FHN33
+T 6200 4400 8 8 1 1 0 6 1
+refdes=U?
