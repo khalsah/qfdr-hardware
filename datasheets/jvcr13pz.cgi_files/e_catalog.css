@@ -1,0 +1,202 @@
+/* e_catalog CSS */
+/* Link
+==============================*/
+a:visited	{text-decoration: none;}
+a:link		{text-decoration: none;}
+a:hover		{text-decoration: underline;}
+a:active	{text-decoration: none;}
+
+/* Layout Table
+==============================*/
+.ctlg_tbl_1 {
+	background-color: #5A595A;
+	border:1px;
+	margin-right:5pt;
+}
+
+.ctlg_tbl_2 {
+	padding: 1px 1px 1px 1px;
+}
+
+/* Parts No Column
+==============================*/
+.pnfgdcol {
+	background-color: #ffffff;
+	white-space: nowrap;
+}
+.pnfgdcol a:link	{color:#003a91;	text-decoration:underline !important;}
+.pnfgdcol a:visited	{color:#8b1db9;	text-decoration:underline !important;}
+.pnfgdcol a:active	{color:#6186d4;	text-decoration:underline !important;}
+.pnfgdcol a:hover	{color:#6186d4;	text-decoration:underline !important;}
+
+/* Catalog Column
+==============================*/
+.ctlgcol {
+	background-color: #ffffff;
+	text-align: center;
+}
+
+/* Spec Head
+==============================*/
+.spechead_l1 {
+	color: #000000;
+	background-color: #e0e0e0;
+	text-align: center;
+	padding: 1px 1px 1px 1px;
+}
+.spechead_l2 {
+	color: #000000;
+	background-color: #e0e0e0;
+	text-align: center;
+	padding: 1px 1px 1px 1px;
+}
+.spechead_l2 img {
+	vertical-align: middle;
+}
+.spechead_l3 {
+	color: #000000;
+	background-color: #e0e0e0;
+	text-align: center;
+	padding: 1px 1px 1px 1px;
+}
+.spechead_l3 img {
+	vertical-align: middle;
+}
+
+/* Product Specification Head
+==============================*/
+.producthead {
+	color: #000000;
+	background-color: #e0e0e0;
+	text-align: center;
+	padding: 1px 1px 1px 1px;
+}
+
+/* Data Sheet Link
+==============================*/
+.dslink {
+	background-color: #ffffff;
+	text-align: left;
+	white-space: nowrap;
+}
+.dslink a:link		{color:#003a91;	text-decoration:underline !important;}
+.dslink a:visited	{color:#8b1db9;	text-decoration:underline !important;}
+.dslink a:active	{color:#6186d4;	text-decoration:underline !important;}
+.dslink a:hover		{color:#6186d4;	text-decoration:underline !important;}
+
+/* Data Sheet Catalog Head
+==============================*/
+.dshctlghead {
+	color: #000000;
+	background-color: #e0e0e0;
+	text-align: center;
+}
+
+/* Data Sheet Series Catalog Head
+==============================*/
+.dssctlghead {
+	color: #000000;
+	background-color: #e0e0e0;
+	text-align: center;
+}
+
+/* Data Sheet Individual Head
+==============================*/
+.dspnfgdhead {
+	color: #000000;
+	background-color: #e0e0e0;
+	text-align: center;
+}
+
+/* Attached Data Head
+==============================*/
+.attachdatahead {
+	color: #000000;
+	background-color: #e0e0e0;
+	text-align: center;
+}
+
+/* Data Sheet Series Head
+==============================*/
+.dsserieshead {
+	color: #000000;
+	background-color: #e0e0e0;
+	text-align: center;
+}
+
+/* Data Sheet Data Files Head
+==============================*/
+.dsdatafileshead {
+	color: #000000;
+	background-color: #e0e0e0;
+	text-align: center;
+}
+
+/* CAD Data Head
+==============================*/
+.caddatahead {
+	color: #000000;
+	background-color: #e0e0e0;
+	text-align: center;
+}
+
+/* Spec Column
+==============================*/
+.speccol {
+	background-color: #ffffff;
+	white-space: nowrap;
+}
+
+/* Value Column
+==============================*/
+.valuecol {
+	background-color: #ffffff;
+}
+
+/* Error Cell
+==============================*/
+.errorcell {
+	background-color: #ff9999;
+}
+
+/* Terms And Conditions
+==============================*/
+.termsconditions {
+	background-color: #ffffff;
+	border-width: 0;
+}
+.termsconditions img {
+	vertical-align: middle;
+}
+.termsconditions a:link		{color:#003a91;	text-decoration:underline !important;}
+.termsconditions a:visited	{color:#8b1db9;	text-decoration:underline !important;}
+.termsconditions a:active	{color:#6186d4;	text-decoration:underline !important;}
+.termsconditions a:hover	{color:#6186d4;	text-decoration:underline !important;}
+
+/* Body Shape Column
+==============================*/
+.bodyshapecol {
+	background-color: #ffffff;
+	vertical-align: top;
+}
+
+/* Series Type Column
+==============================*/
+.seriestypecol {
+	background-color: #ffffff;
+	vertical-align: top;
+}
+.seriestypecol a:link		{color:#003a91;	text-decoration:underline !important;}
+.seriestypecol a:visited	{color:#8b1db9;	text-decoration:underline !important;}
+.seriestypecol a:active		{color:#6186d4;	text-decoration:underline !important;}
+.seriestypecol a:hover		{color:#6186d4;	text-decoration:underline !important;}
+
+/* Remark Message
+==============================*/
+.remarkmsg {
+	font-size: 95%;
+	margin: 5px 0;
+	padding: 5px 12px;
+	line-height: 120%;
+	text-indent: -10px;
+}

@@ -1,0 +1,1058 @@
+/* old format
+-------------------------------------\*/
+html,
+body,
+div#p0401-header_navigation-container,
+div#p0401-header_navigation-container div#p0401-header_navigation-area,
+div#p0401-content-container,
+div#p0401-content-container div#p0401-content-area,
+div#p0401-content-container div#p0401-content-area div#p0401-content,
+div#p0401-content-container div#p0401-content-area div#p0401-sub-navigation-area,
+p#p0401-breadcrumbs,
+div#p0401-footer-container,
+div#p0401-footer-container div#p0401-footer-area {
+	position: static !important;
+	clip: auto !important;
+	clear: both !important;
+	float: none !important;
+	visibility: visible !important;
+	display: block !important;
+	margin: 0 !important;
+	border: 0 none !important;
+	padding: 0 !important;
+	max-width: none !important;
+	max-height: none !important;
+	min-width: 0 !important;
+	min-height: 0 !important;
+	overflow: visibile !important;
+	background: transparent none !important;
+	text-align: left !important;
+	white-spacing: normal !important;
+	letter-spacing: 0 !important;
+	word-spacing: 0 !important;
+	vertical-align: baseline !important;
+	zoom: 1 !important;
+}
+html:after,
+body:after,
+div#p0401-header_navigation-container:after,
+div#p0401-header_navigation-container div#p0401-header_navigation-area:after,
+div#p0401-content-container:after,
+div#p0401-content-container div#p0401-content-area:after,
+div#p0401-content-container div#p0401-content-area div#p0401-content:after,
+div#p0401-content-container div#p0401-content-area div#p0401-sub-navigation-area:after,
+div#p0401-footer-container:after,
+div#p0401-footer-container div#p0401-footer-area:after {
+	content: ".";
+	clear: both;
+	visibility: hidden;
+	display: block;
+	height: 0;
+	line-height: 0;
+}
+div#p0401-header_navigation-container,
+div#p0401-header_navigation-container div#p0401-header_navigation-area,
+div#p0401-content-container,
+p#p0401-breadcrumbs,
+div#p0401-footer-container,
+div#p0401-footer-container div#p0401-footer-area {
+	width: auto !important;
+	height: auto !important;
+}
+div#p0401-header_navigation-container,
+div#p0401-header_navigation-container div#p0401-header_navigation-area,
+div#p0401-footer-container,
+div#p0401-footer-container div#p0401-footer-area {
+	font-size: 100% !important;
+}
+div#p0401-content-container {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	padding-left: 12px !important;
+	padding-right: 12px !important;
+	width: 967px !important;
+}
+div#p0401-content-container div#fs01-main-navigation-area {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+div#p0401-content-container div#p0401-content-area div#fs01-main-navigation-area {
+	position: relative !important;
+	margin-right: -197px !important;
+}
+body.fs01-center div#p0401-content-container div#p0401-content-area div#fs01-main-navigation-area {
+	position: relative !important;
+	margin-left: -98px !important;
+	margin-right: -99px !important;
+	background-position: 0 0 !important;
+}
+div#p0401-content-container div#p0401-content-area {
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+}
+body.fs01-center div#p0401-content-container div#p0401-content-area {
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+div#p0401-content-container div#p0401-content-area div#p0401-content {
+	float: right !important;
+}
+div#p0401-content-container div#p0401-content-area div#p0401-sub-navigation-area {
+	clear: none !important;
+	float: left !important;
+}
+p#p0401-breadcrumbs {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	margin-bottom: 0.75em !important;
+	padding-left: 12px !important;
+	padding-right: 12px !important;
+	width: 967px !important;
+	line-height: 1.17em !important;
+	*line-height: 1.08em !important;
+	font-size: 75%;
+}
+p#p0401-breadcrumbs a:link,
+p#p0401-breadcrumbs a:visited {
+	text-decoration: underline;
+}
+div#p0401-content-container div#p0401-content-area p#p0401-breadcrumbs {
+	position: relative !important;
+	margin-left: 0 !important;
+	margin-right: -197px !important;
+	margin-bottom: 1em !important;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+	font-family: "MS UI Gothic", sans-serif;
+}
+body.fs01-center div#p0401-content-container div#p0401-content-area p#p0401-breadcrumbs {
+	margin-left: -98px !important;
+	margin-right: -99px !important;
+}
+p#p0401-breadcrumbs a:link,
+p#p0401-breadcrumbs a:visited {
+	color: #666666 !important;
+}
+p#p0401-breadcrumbs a:link:hover,
+p#p0401-breadcrumbs a:visited:hover {
+	color: #5378c6 !important;
+}
+p#p0401-breadcrumbs a:link img,
+p#p0401-breadcrumbs a:visited img {
+	padding-left: 1px;
+	padding-right: 0.17em;
+	border: 0 none !important;
+	vertical-align: -0.17em !important;
+	*vertical-align: middle !important;
+}
+div#p0401-footer-container {
+	font-size: 100% !important;
+}
+
+
+/* reset
+======================================\*/
+html,
+body,
+div#fs01-header-area,
+div#fs01-header-area h1#fs01-identity,
+div#fs01-header-area div#fs01-identity,
+div#fs01-header-area h1#fs01-identity a:link,
+div#fs01-header-area h1#fs01-identity a:visited,
+div#fs01-header-area div#fs01-identity a:link,
+div#fs01-header-area div#fs01-identity a:visited,
+div#fs01-header-area h1#fs01-identity img,
+div#fs01-header-area div#fs01-identity img,
+div#fs01-header-area div#fs01-skip-link,
+div#fs01-header-area div#fs01-utility,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:link,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:visited,
+div#fs01-header-area div#fs01-utility form,
+div#fs01-header-area div#fs01-utility form p,
+div#fs01-header-area div#fs01-utility form p label,
+div#fs01-header-area div#fs01-utility form p input#MF_form_phrase,
+div#fs01-header-area div#fs01-utility form p input#fs01-search-submit,
+div#fs01-header-area div#fs01-site-selector,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:link,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:visited,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:link img,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:visited img,
+div#fs01-header-area div#fs01-site-selector ul,
+div#fs01-header-area div#fs01-site-selector ul li,
+div#fs01-header-area div#fs01-site-selector ul li a:link,
+div#fs01-header-area div#fs01-site-selector ul li a:visited,
+div#fs01-site-header-area,
+div#fs01-site-header-area div#fs01-site-title,
+div#fs01-site-header-area div#fs01-site-title a:link,
+div#fs01-site-header-area div#fs01-site-title a:visited,
+div#fs01-site-header-area div#fs01-site-title a:link img,
+div#fs01-site-header-area div#fs01-site-title a:visited img,
+div#fs01-site-header-area h1#fs01-site-title,
+div#fs01-site-header-area h1#fs01-site-title a:link,
+div#fs01-site-header-area h1#fs01-site-title a:visited,
+div#fs01-site-header-area h1#fs01-site-title a:link img,
+div#fs01-site-header-area h1#fs01-site-title a:visited img,
+div#fs01-site-header-area ul#fs01-parents,
+div#fs01-site-header-area ul#fs01-parents li,
+div#fs01-site-header-area ul#fs01-parents li a:link,
+div#fs01-site-header-area ul#fs01-parents li a:visited,
+div#fs01-site-header-area ul#fs01-parents li a:link img,
+div#fs01-site-header-area ul#fs01-parents li a:visited img,
+div#fs01-site-header-area ul#fs01-relational-link,
+div#fs01-site-header-area ul#fs01-relational-link li,
+div#fs01-site-header-area ul#fs01-relational-link li a:link,
+div#fs01-site-header-area ul#fs01-relational-link li a:visited,
+div#fs01-site-header-area ul#fs01-relational-link li a:link img,
+div#fs01-site-header-area ul#fs01-relational-link li a:visited img,
+div#fs01-logo-area,
+div#fs01-logo-area a:link,
+div#fs01-logo-area a:visited,
+div#fs01-logo-area img,
+div#fs01-main-navigation-area,
+div#fs01-main-navigation-area div#fs01-main-navigation,
+div#fs01-main-navigation-area div#fs01-main-navigation ul,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li em,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link span,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited span,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li em span,
+p#fs01-breadcrumbs,
+p#fs01-breadcrumbs a:link,
+p#fs01-breadcrumbs a:visited,
+p#fs01-breadcrumbs a:link img,
+p#fs01-breadcrumbs a:visited img,
+div#fs01-breadcrumbs,
+div#fs01-breadcrumbs a:link,
+div#fs01-breadcrumbs a:visited,
+div#fs01-breadcrumbs a:link img,
+div#fs01-breadcrumbs a:visited img,
+div#fs01-content-area,
+div#fs01-content-area p#fs01-content-area-label,
+div#fs01-content-area div#fs01-content,
+div#fs01-footer-area,
+div#fs01-footer-area p#fs01-footer-area-label,
+div#fs01-footer-area ul#fs01-basic-info,
+div#fs01-footer-area ul#fs01-basic-info li,
+div#fs01-footer-area ul#fs01-basic-info li a:link,
+div#fs01-footer-area ul#fs01-basic-info li a:visited,
+div#fs01-footer-area div#fs01-information,
+div#fs01-footer-area div#fs01-information p,
+div#fs01-footer-area div#fs01-information p#fs01-information-link,
+div#fs01-footer-area div#fs01-information p#fs01-information-link a:link,
+div#fs01-footer-area div#fs01-information p#fs01-information-link a:visited,
+div#fs01-footer-area address#fs01-copyright {
+	position: static;
+	clip: auto;
+	overflow: visibile;
+	clear: none;
+	float: none;
+	visibility: visible;
+	margin: 0;
+	border: 0 none;
+	padding: 0;
+	background: transparent none 0 0 no-repeat scroll;
+	text-decoration: none;
+	font-size: 100%;
+	font-style: normal;
+	font-weight: normal;
+	white-spacing: normal;
+	letter-spacing: 0;
+	word-spacing: 0;
+	vertical-align: baseline;
+}
+html,
+body,
+div#fs01-header-area,
+div#fs01-header-area h1#fs01-identity,
+div#fs01-header-area div#fs01-identity,
+div#fs01-header-area h1#fs01-identity a:link,
+div#fs01-header-area h1#fs01-identity a:visited,
+div#fs01-header-area div#fs01-identity a:link,
+div#fs01-header-area div#fs01-identity a:visited,
+div#fs01-header-area div#fs01-skip-link,
+div#fs01-header-area div#fs01-utility,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:link,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:visited,
+div#fs01-header-area div#fs01-utility form,
+div#fs01-header-area div#fs01-utility form p,
+div#fs01-header-area div#fs01-site-selector,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:link,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:visited,
+div#fs01-header-area div#fs01-site-selector.fs01-active-site-selector ul,
+div#fs01-header-area div#fs01-site-selector ul li,
+div#fs01-header-area div#fs01-site-selector ul li a:link,
+div#fs01-header-area div#fs01-site-selector ul li a:visited,
+div#fs01-site-header-area,
+div#fs01-site-header-area div#fs01-site-title,
+div#fs01-site-header-area div#fs01-site-title a:link,
+div#fs01-site-header-area div#fs01-site-title a:visited,
+div#fs01-site-header-area h1#fs01-site-title,
+div#fs01-site-header-area h1#fs01-site-title a:link,
+div#fs01-site-header-area h1#fs01-site-title a:visited,
+div#fs01-site-header-area ul#fs01-parents,
+div#fs01-site-header-area ul#fs01-parents li,
+div#fs01-site-header-area ul#fs01-parents li a:link,
+div#fs01-site-header-area ul#fs01-parents li a:visited,
+div#fs01-site-header-area ul#fs01-relational-link,
+div#fs01-site-header-area ul#fs01-relational-link li,
+div#fs01-site-header-area ul#fs01-relational-link li a:link,
+div#fs01-site-header-area ul#fs01-relational-link li a:visited,
+div#fs01-logo-area,
+div#fs01-logo-area a:link,
+div#fs01-logo-area a:visited,
+div#fs01-main-navigation-area,
+div#fs01-main-navigation-area div#fs01-main-navigation,
+div#fs01-main-navigation-area div#fs01-main-navigation ul,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li em,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link span,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited span,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li em span,
+p#fs01-breadcrumbs,
+div#fs01-breadcrumbs,
+div#fs01-content-area,
+div#fs01-content-area p#fs01-content-area-label,
+div#fs01-content-area div#fs01-content,
+div#fs01-footer-area,
+div#fs01-footer-area p#fs01-footer-area-label,
+div#fs01-footer-area ul#fs01-basic-info,
+div#fs01-footer-area ul#fs01-basic-info li,
+div#fs01-footer-area ul#fs01-basic-info li a:link,
+div#fs01-footer-area ul#fs01-basic-info li a:visited,
+div#fs01-footer-area div#fs01-information,
+div#fs01-footer-area div#fs01-information p,
+div#fs01-footer-area div#fs01-information p#fs01-information-link,
+div#fs01-footer-area address#fs01-copyright {
+	max-width: none;
+	max-height: none;
+	min-width: 0;
+	min-height: 0;
+	width: auto;
+	height: auto;
+}
+div#fs01-header-area div#fs01-site-selector ul {
+	display: none;
+}
+html,
+body,
+div#fs01-header-area,
+div#fs01-header-area h1#fs01-identity,
+div#fs01-header-area div#fs01-identity,
+div#fs01-header-area h1#fs01-identity a:link,
+div#fs01-header-area h1#fs01-identity a:visited,
+div#fs01-header-area div#fs01-identity a:link,
+div#fs01-header-area div#fs01-identity a:visited,
+div#fs01-header-area h1#fs01-identity img,
+div#fs01-header-area div#fs01-identity img,
+div#fs01-header-area div#fs01-skip-link,
+div#fs01-header-area div#fs01-utility,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:link,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:visited,
+div#fs01-header-area div#fs01-utility form,
+div#fs01-header-area div#fs01-utility form p,
+div#fs01-header-area div#fs01-site-selector,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:link,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:visited,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:link img,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:visited img,
+div#fs01-header-area div#fs01-site-selector.fs01-active-site-selector ul,
+div#fs01-header-area div#fs01-site-selector ul li,
+div#fs01-header-area div#fs01-site-selector ul li a:link,
+div#fs01-header-area div#fs01-site-selector ul li a:visited,
+div#fs01-site-header-area,
+div#fs01-site-header-area div#fs01-site-title,
+div#fs01-site-header-area div#fs01-site-title a:link,
+div#fs01-site-header-area div#fs01-site-title a:visited,
+div#fs01-site-header-area div#fs01-site-title a:link img,
+div#fs01-site-header-area div#fs01-site-title a:visited img,
+div#fs01-site-header-area h1#fs01-site-title,
+div#fs01-site-header-area h1#fs01-site-title a:link,
+div#fs01-site-header-area h1#fs01-site-title a:visited,
+div#fs01-site-header-area h1#fs01-site-title a:link img,
+div#fs01-site-header-area h1#fs01-site-title a:visited img,
+div#fs01-site-header-area ul#fs01-parents,
+div#fs01-site-header-area ul#fs01-parents li,
+div#fs01-site-header-area ul#fs01-parents li a:link,
+div#fs01-site-header-area ul#fs01-parents li a:visited,
+div#fs01-site-header-area ul#fs01-parents li a:link img,
+div#fs01-site-header-area ul#fs01-parents li a:visited img,
+div#fs01-site-header-area ul#fs01-relational-link,
+div#fs01-site-header-area ul#fs01-relational-link li,
+div#fs01-site-header-area ul#fs01-relational-link li a:link,
+div#fs01-site-header-area ul#fs01-relational-link li a:visited,
+div#fs01-site-header-area ul#fs01-relational-link li a:link img,
+div#fs01-site-header-area ul#fs01-relational-link li a:visited img,
+div#fs01-logo-area,
+div#fs01-logo-area a:link,
+div#fs01-logo-area a:visited,
+div#fs01-logo-area img,
+div#fs01-main-navigation-area,
+div#fs01-main-navigation-area div#fs01-main-navigation,
+div#fs01-main-navigation-area div#fs01-main-navigation ul,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li em,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link span,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited span,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li em span,
+p#fs01-breadcrumbs,
+div#fs01-breadcrumbs,
+div#fs01-content-area,
+div#fs01-content-area p#fs01-content-area-label,
+div#fs01-content-area div#fs01-content,
+div#fs01-footer-area,
+div#fs01-footer-area p#fs01-footer-area-label,
+div#fs01-footer-area ul#fs01-basic-info,
+div#fs01-footer-area ul#fs01-basic-info li,
+div#fs01-footer-area ul#fs01-basic-info li a:link,
+div#fs01-footer-area ul#fs01-basic-info li a:visited,
+div#fs01-footer-area div#fs01-information,
+div#fs01-footer-area div#fs01-information p,
+div#fs01-footer-area div#fs01-information p#fs01-information-link,
+div#fs01-footer-area address#fs01-copyright {
+	display: block;
+	text-align: left;
+	list-style-type: none;
+}
+div#fs01-header-area div#fs01-utility form p label,
+div#fs01-header-area div#fs01-utility form p input#MF_form_phrase,
+div#fs01-header-area div#fs01-utility form p input#fs01-search-submit,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:link img,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:visited img,
+p#fs01-breadcrumbs a:link,
+p#fs01-breadcrumbs a:visited,
+p#fs01-breadcrumbs a:link img,
+p#fs01-breadcrumbs a:visited img,
+div#fs01-breadcrumbs a:link,
+div#fs01-breadcrumbs a:visited,
+div#fs01-breadcrumbs a:link img,
+div#fs01-breadcrumbs a:visited img,
+div#fs01-footer-area div#fs01-information p#fs01-information-link a:link,
+div#fs01-footer-area div#fs01-information p#fs01-information-link a:visited {
+	display: inline;
+}
+
+
+/* basic element
+======================================\*/
+html {
+	font-family: "MS PGothic", sans-serif;
+}
+
+html,
+body {
+	min-width: 991px !important;
+}
+
+body {
+	background-color: #ffffff !important;
+}
+
+a:link,
+a:visited {
+	text-decoration: underline;
+}
+a:link,
+div#fs01-header-area h1#fs01-identity a:link,
+div#fs01-header-area h1#fs01-identity a:visited,
+div#fs01-header-area div#fs01-identity a:link,
+div#fs01-header-area div#fs01-identity a:visited,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:link,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:visited,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:link,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:visited,
+div#fs01-header-area div#fs01-site-selector ul li a:link,
+div#fs01-header-area div#fs01-site-selector ul li a:visited,
+div#fs01-site-header-area ul#fs01-parents li a:link,
+div#fs01-site-header-area ul#fs01-parents li a:visited,
+div#fs01-site-header-area ul#fs01-relational-link li a:link,
+div#fs01-site-header-area ul#fs01-relational-link li a:visited,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited,
+div#fs01-footer-area ul#fs01-basic-info li a:link,
+div#fs01-footer-area ul#fs01-basic-info li a:visited,
+div#fs01-footer-area div#fs01-information p#fs01-information-link a:link,
+div#fs01-footer-area div#fs01-information p#fs01-information-link a:visited {
+	color: #003a91;
+}
+a:visited {
+	color: #8b1db9;
+}
+a:link:hover,
+a:visited:hover,
+div#fs01-header-area h1#fs01-identity a:link:hover,
+div#fs01-header-area h1#fs01-identity a:visited:hover,
+div#fs01-header-area div#fs01-identity a:link:hover,
+div#fs01-header-area div#fs01-identity a:visited:hover,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:link:hover,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:visited:hover,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:link:hover,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:visited:hover,
+div#fs01-header-area div#fs01-site-selector ul li a:link:hover,
+div#fs01-header-area div#fs01-site-selector ul li a:visited:hover,
+div#fs01-site-header-area ul#fs01-parents li a:link:hover,
+div#fs01-site-header-area ul#fs01-parents li a:visited:hover,
+div#fs01-site-header-area ul#fs01-relational-link li a:link:hover,
+div#fs01-site-header-area ul#fs01-relational-link li a:visited:hover,
+p#fs01-breadcrumbs a:link:hover,
+p#fs01-breadcrumbs a:visited:hover,
+div#fs01-breadcrumbs a:link:hover,
+div#fs01-breadcrumbs a:visited:hover,
+div#fs01-footer-area ul#fs01-basic-info li a:link:hover,
+div#fs01-footer-area ul#fs01-basic-info li a:visited:hover,
+div#fs01-footer-area div#fs01-information p#fs01-information-link a:link:hover,
+div#fs01-footer-area div#fs01-information p#fs01-information-link a:visited:hover {
+	color: #5378c6;
+}
+
+
+/* area definition
+======================================\*/
+div#fs01-header-area,
+div#fs01-site-header-area,
+div#fs01-logo-area,
+div#fs01-main-navigation-area,
+p#fs01-breadcrumbs,
+div#fs01-breadcrumbs,
+div#fs01-content-area,
+div#fs01-footer-area {
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 12px;
+	padding-right: 12px;
+	width: 991px;
+	w\idth: 967px;
+	zoom: 1;
+}
+div#fs01-header-area,
+div#fs01-site-header-area,
+div#fs01-logo-area,
+div#fs01-main-navigation-area,
+p#fs01-breadcrumbs,
+div#fs01-breadcrumbs,
+div#fs01-footer-area {
+	font-size: 75%;
+}
+div#fs01-header-area:after,
+div#fs01-site-header-area:after,
+div#fs01-main-navigation-area:after,
+p#fs01-breadcrumbs:after,
+div#fs01-breadcrumbs:after,
+div#fs01-content-area:after,
+div#fs01-footer-area:after {
+	content: ".";
+	clear: both;
+	display: block;
+	height: 0;
+	line-height: 0;
+	visibility: hidden;
+}
+
+
+/* header-area
+======================================\*/
+
+/* identity
+--------------------------------------\*/
+div#fs01-header-area h1#fs01-identity,
+div#fs01-header-area div#fs01-identity {
+	float: left;
+	margin-left: -10px;
+	_margin-left: -5px;
+}
+
+/* skipper
+--------------------------------------\*/
+div#fs01-header-area div#fs01-skip-link {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	width: 1px;
+	height: 1px;
+}
+
+/* utility
+--------------------------------------\*/
+div#fs01-header-area div#fs01-utility {
+	float: right;
+	margin-top: -0.59em;
+	padding-top: 27px;
+}
+
+/* link
+......................................\*/
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link {
+	float: left;
+	*padding-top: 0.17em;
+}
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li {
+	float: left;
+	padding-left: 12px;
+}
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:link,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:visited {
+	padding-left: 9px;
+	background: url(../img/icn_link_01.gif) 0 50% no-repeat;
+}
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:link:hover,
+div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:visited:hover {
+	text-decoration: underline;
+}
+
+/* search form
+......................................\*/
+div#fs01-header-area div#fs01-utility form {
+	float: left;
+	margin-top: -0.17em;
+	padding-right: 16px;
+	padding-left: 19px;
+}
+div#fs01-header-area div#fs01-utility form p {
+}
+div#fs01-header-area div#fs01-utility form p label {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	width: 1px;
+	height: 1px;
+}
+div#fs01-header-area div#fs01-utility form p input#MF_form_phrase {
+	border: 1px solid;
+	border-color: #929292 #e5e5e5 #dddddd #b3b3b3;
+	padding-left: 5px;
+	padding-right: 5px;
+	width: 108px;
+	height: 1.34em;
+	vertical-align: top;
+	background-color: #ededed;
+}
+div#fs01-header-area div#fs01-utility form p input#MF_form_phrase.fs01-focus {
+	border: 1px solid;
+	border-color: #8e959d #e0eaf6 #d8e2ed #b0b7c1;
+	padding-left: 5px;
+	padding-right: 5px;
+	width: 108px;
+	height: 1.34em;
+	vertical-align: top;
+	background-color: #e8f2ff;
+}
+div#fs01-header-area div#fs01-utility form p input#fs01-search-submit {
+	margin-left: 2px;
+	vertical-align: middle;
+}
+
+/* site selector
+......................................\*/
+div#fs01-header-area div#fs01-site-selector {
+	float: left;
+	position: relative;
+	margin-top: -4px;
+	height: 22px;
+	cursor: pointer;
+	z-index: 10000;
+	*margin-top: -3px;
+}
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site {
+	padding-right: 17px;
+	height: 22px;
+	background: url(../img/bg_site-selector_01.gif) 100% 0 no-repeat;
+	_width: 11.5em;
+}
+div#fs01-header-area div#fs01-site-selector.fs01-hover div#fs01-current-site {
+	background-image: url(../img/bg_site-selector_01o.gif);
+}
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:link,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:visited {
+	padding-left: 5px;
+	padding-right: 5px;
+	height: 22px;
+	line-height: 22px;
+	text-decoration: none;
+	background: url(../img/bg_site-selector_02.gif) 0 0 no-repeat;
+	_padding-top: 5px;
+	_height: 22px;
+	_he\ight: 17px;
+}
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:link:hover,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:visited:hover {
+	color: #ffffff;
+	background-image: url(../img/bg_site-selector_02o.gif);
+}
+div#fs01-header-area div#fs01-site-selector.fs01-active-site-selector div#fs01-current-site {
+	background-image: url(../img/bg_site-selector_01a.gif);
+}
+div#fs01-header-area div#fs01-site-selector.fs01-active-site-selector div#fs01-current-site a:link,
+div#fs01-header-area div#fs01-site-selector.fs01-active-site-selector div#fs01-current-site a:visited {
+	background-image: url(../img/bg_site-selector_02a.gif);
+}
+div#fs01-header-area div#fs01-site-selector.fs01-active-site-selector div#fs01-current-site a:link:hover,
+div#fs01-header-area div#fs01-site-selector.fs01-active-site-selector div#fs01-current-site a:visited:hover {
+	background-image: url(../img/bg_site-selector_02o.gif);
+}
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:link img,
+div#fs01-header-area div#fs01-site-selector div#fs01-current-site a:visited img {
+	padding-right: 3px;
+	vertical-align: -2px;
+	*vertical-align: middle;
+}
+div#fs01-header-area div#fs01-site-selector ul {
+	position: absolute;
+	top: 100%;
+	right: 0;
+	_right: -1px;
+	padding-top: 1px;
+	border-left: 1px solid #cccccc;
+	border-right: 1px solid #cccccc;
+	border-bottom: 1px solid #cccccc;
+	background: url(../img/bg_site-selector_03.gif) 0 0 no-repeat;
+	z-index: 10000;
+}
+div#fs01-header-area div#fs01-site-selector ul li {
+	background-color: #f2f2f2;
+}
+div#fs01-header-area div#fs01-site-selector ul li a:link,
+div#fs01-header-area div#fs01-site-selector ul li a:visited {
+	padding: 0.25em 6px;
+	width: 154px;
+	w\idth: 142px;
+	background-color: #f2f2f2;
+	text-decoration: none;
+}
+\*|* div#fs01-header-area div#fs01-site-selector ul li a:link/* \*/,
+\*|* div#fs01-header-area div#fs01-site-selector ul li a:visited/* \*/ {
+	padding-right: 0px;
+	width: 148px;
+}
+div#fs01-header-area div#fs01-site-selector ul li a:link:hover,
+div#fs01-header-area div#fs01-site-selector ul li a:visited:hover {
+	background-color: #3e70ce;
+	color: #ffffff;
+}
+
+
+/* site-header-area
+======================================\*/
+div#fs01-site-header-area {
+	margin-bottom: 0;
+	padding-top: 1px;
+	background: url(../img/bg_header_01.gif) 50% 0 no-repeat;
+}
+body.fs01-logo div#fs01-site-header-area {
+	padding-right: 209px;
+	width: 794px;
+	w\idth: 770px;
+}
+body.fs01-logo02 div#fs01-site-header-area {
+	padding-right: 176px;
+	width: 827px;
+	w\idth: 803px;
+}
+div#fs01-site-header-area div#fs01-site-title,
+div#fs01-site-header-area h1#fs01-site-title {
+	float: left;
+}
+div#fs01-site-header-area div#fs01-site-title img,
+div#fs01-site-header-area h1#fs01-site-title img {
+}
+div#fs01-site-header-area ul#fs01-parents,
+div#fs01-site-header-area ul#fs01-relational-link {
+	float: right;
+	margin-top: 6px;
+}
+div#fs01-site-header-area ul#fs01-parents li,
+div#fs01-site-header-area ul#fs01-relational-link li {
+	clear: right;
+	float: left;
+	padding-left: 9px;
+}
+div#fs01-site-header-area ul#fs01-parents li a:link,
+div#fs01-site-header-area ul#fs01-parents li a:visited,
+div#fs01-site-header-area ul#fs01-relational-link li a:link,
+div#fs01-site-header-area ul#fs01-relational-link li a:visited {
+}
+div#fs01-site-header-area ul#fs01-parents li a:link img,
+div#fs01-site-header-area ul#fs01-parents li a:visited img,
+div#fs01-site-header-area ul#fs01-relational-link li a:link img,
+div#fs01-site-header-area ul#fs01-relational-link li a:visited img {
+}
+
+
+/* logo-area
+======================================\*/
+div#fs01-logo-area {
+	position: relative;
+	zoom: 1;
+}
+div#fs01-logo-area img {
+	position: absolute;
+	top: -1px;
+	right: 12px;
+	_right: 11px;
+}
+body.fs01-logo div#fs01-logo-area img {
+	top: -27px;
+}
+body.fs01-logo02 div#fs01-logo-area img {
+	top: -27px;
+}
+
+
+/* main-navigation-area
+======================================\*/
+div#fs01-main-navigation-area {
+	margin-bottom: 0.25em;
+	*margin-bottom: 0.75em;
+	background: url(../img/bg_mainnav_01.gif) 50% 0 repeat-y;
+}
+body.fs01-logo div#fs01-main-navigation-area,
+body.fs01-logo02 div#fs01-main-navigation-area {
+	padding-right: 209px;
+	width: 794px;
+	w\idth: 770px;
+	background-image: url(../img/bg_mainnav_01_logo.gif);
+}
+body.fs01-logo02 div#fs01-main-navigation-area {
+	padding-right: 176px;
+	width: 827px;
+	w\idth: 803px;
+	background-image: url(../img/bg_mainnav_01_logo02.gif);
+}
+div#fs01-main-navigation-area div#fs01-main-navigation {
+}
+div#fs01-main-navigation-area div#fs01-main-navigation ul {
+	padding-right: 12px;
+	zoom: 1;
+}
+div#fs01-main-navigation-area div#fs01-main-navigation ul:after {
+	content: ".";
+	clear: both;
+	display: block;
+	height: 0;
+	line-height: 0;
+	visibility: hidden;
+}
+div#fs01-main-navigation-area div#fs01-main-navigation ul li {
+	float: left;
+	margin-bottom: 5px;
+	padding-bottom: 1px;
+}
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li em {
+	float: left;
+	background: url(../img/bg_mainnav_02.gif) 0 0 no-repeat;
+}
+div#fs01-main-navigation-area div#fs01-main-navigation ul li.fs01-main-navigation-stay a:link,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li.fs01-main-navigation-stay a:visited,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li em {
+	background-position: 0 -54px;
+}
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link:hover,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited:hover,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li.fs01-main-navigation-stay a:link:hover,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li.fs01-main-navigation-stay a:visited:hover {
+	background-position: 0 -27px;
+	background-color: #5378c6;
+	color: #ffffff;
+}
+div#fs01-main-navigation-area div#fs01-main-navigation ul li#fs01-main-navigation-01 a:link,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li#fs01-main-navigation-01 a:visited,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li#fs01-main-navigation-01 em {
+	background-image: url(../img/bg_mainnav_04.gif);
+}
+div#fs01-main-navigation-area div#fs01-main-navigation ul li#fs01-main-navigation-13 {
+	max-width: 89px;
+	_width: 89px;
+	_overflow: hidden;
+}
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link span,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited span,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li em span {
+	float: left;
+	padding-left: 17px;
+	padding-right: 18px;
+	height: 27px;
+	line-height: 27px;
+	font-weight: bold;
+	white-space: nowrap;
+	background: url(../img/bg_mainnav_03.gif) 100% 0 no-repeat;
+}
+div#fs01-main-navigation-area div#fs01-main-navigation ul li.fs01-main-navigation-stay a:link span,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li.fs01-main-navigation-stay a:visited span,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li.fs01-main-navigation-stay em span {
+	background-position: 100% -54px;
+}
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link:hover span,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited:hover span,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li.fs01-main-navigation-stay a:link:hover span,
+div#fs01-main-navigation-area div#fs01-main-navigation ul li.fs01-main-navigation-stay a:visited:hover span {
+	background-position: 100% -27px;
+	cursor: pointer;
+}
+body.fs01-type02 div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link,
+body.fs01-type02 div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited,
+body.fs01-type02 div#fs01-main-navigation-area div#fs01-main-navigation ul li em {
+	background-image: url(../img/bg_mainnav_02_type02.gif);
+}
+body.fs01-type02 div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link:hover,
+body.fs01-type02 div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited:hover,
+body.fs01-type02 div#fs01-main-navigation-area div#fs01-main-navigation ul li.fs01-main-navigation-stay a:link:hover,
+body.fs01-type02 div#fs01-main-navigation-area div#fs01-main-navigation ul li.fs01-main-navigation-stay a:visited:hover {
+	background-color: #ab6002;
+}
+body.fs01-type02 div#fs01-main-navigation-area div#fs01-main-navigation ul li#fs01-main-navigation-01 a:link,
+body.fs01-type02 div#fs01-main-navigation-area div#fs01-main-navigation ul li#fs01-main-navigation-01 a:visited,
+body.fs01-type02 div#fs01-main-navigation-area div#fs01-main-navigation ul li#fs01-main-navigation-01 em {
+	background-image: url(../img/bg_mainnav_04_type02.gif);
+}
+body.fs01-type02 div#fs01-main-navigation-area div#fs01-main-navigation ul li a:link span,
+body.fs01-type02 div#fs01-main-navigation-area div#fs01-main-navigation ul li a:visited span,
+body.fs01-type02 div#fs01-main-navigation-area div#fs01-main-navigation ul li em span {
+	background-image: url(../img/bg_mainnav_03_type02.gif);
+}
+
+
+/* breadcrumbs-area
+======================================\*/
+p#fs01-breadcrumbs,
+div#fs01-breadcrumbs {
+	margin-bottom: 0.75em;
+	font-family: "MS UI Gothic", sans-serif;
+}
+p#fs01-breadcrumbs a:link,
+p#fs01-breadcrumbs a:visited,
+div#fs01-breadcrumbs a:link,
+div#fs01-breadcrumbs a:visited {
+	color: #666666;
+	text-decoration: underline;
+}
+/* Copied from about 511-520 lines */
+p#fs01-breadcrumbs a:link:hover,
+p#fs01-breadcrumbs a:visited:hover,
+div#fs01-breadcrumbs a:link:hover,
+div#fs01-breadcrumbs a:visited:hover {
+	color: #5378c6;
+}
+p#fs01-breadcrumbs a:link img,
+p#fs01-breadcrumbs a:visited img,
+div#fs01-breadcrumbs a:link img,
+div#fs01-breadcrumbs a:visited img {
+	padding-left: 1px;
+	padding-right: 0.17em;
+	vertical-align: -0.17em;
+	*vertical-align: middle;
+}
+
+
+/* content-area
+======================================\*/
+div#fs01-content-area {
+	margin-top: 0.75em;
+}
+div#fs01-content-area p#fs01-content-area-label {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	width: 1px;
+	height: 1px;
+}
+div#fs01-content-area div#fs01-content {
+}
+
+
+/* footer-area
+======================================\*/
+div#fs01-footer-area {
+/*	margin-top: 3.25em;*/
+	margin-top: 19px;
+	padding-top: 19px;
+	background: url(../img/bg_footer_01.gif) 50% 0 no-repeat;
+}
+div#fs01-footer-area p#fs01-footer-area-label {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	width: 1px;
+	height: 1px;
+}
+div#fs01-footer-area ul#fs01-basic-info {
+	float: left;
+	width: 451px;
+}
+div#fs01-footer-area ul#fs01-basic-info li {
+	float: left;
+	padding-right: 8px;
+}
+div#fs01-footer-area ul#fs01-basic-info li a:link,
+div#fs01-footer-area ul#fs01-basic-info li a:visited {
+	padding-left: 9px;
+	background: url(../img/icn_link_01.gif) 0 50% no-repeat;
+}
+div#fs01-footer-area ul#fs01-basic-info li a:link:hover,
+div#fs01-footer-area ul#fs01-basic-info li a:visited:hover {
+	text-decoration: underline;
+}
+div#fs01-footer-area div#fs01-information {
+	float: right;
+	padding-bottom: 0.75em;
+	width: 511px;
+}
+div#fs01-footer-area div#fs01-information p {
+	margin-top: 0.5em;
+	text-align: right;
+	line-height: 1.34;
+}
+div#fs01-footer-area div#fs01-information p#fs01-information-link {
+	text-align: right;
+	font-size: 117%;
+}
+div#fs01-footer-area div#fs01-information p#fs01-information-link a:link,
+div#fs01-footer-area div#fs01-information p#fs01-information-link a:visited {
+	text-decoration: underline;
+}
+div#fs01-footer-area address#fs01-copyright {
+	padding-top: 0.75em;
+	padding-bottom: 0.75em;
+	width: 451px;
+	color: #666666;
+	*clear: left;
+}
+
+
+/* print-media
+======================================\*/
+@media print {
+	body {
+		_zoom: 0.66 !important;
+	}
+	html,
+	body {
+		min-width: 0 !important;
+		*min-width: 991px !important;
+	}
+	div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:link,
+	div#fs01-header-area div#fs01-utility ul#fs01-utility-link li a:visited,
+	div#fs01-footer-area ul#fs01-basic-info li a:link,
+	div#fs01-footer-area ul#fs01-basic-info li a:visited {
+		_display: inline-block;
+	}
+}
+/* */

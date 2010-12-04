@@ -1,0 +1,23 @@
+@charset "iso-8859-1";
+
+/*
+
+information{
+	file name : /common-new/css/screen.css;
+	infomation : This file contains the css format of "deep link" section.;
+	site name : Panasonic Global;
+	url : http://panasonic.net;
+	copyrihgt : Copyright (C) 2008 Panasonic Corporation, Ltd. All Rights Reserved.;
+}
+*/
+
+
+@import url("base.css");
+@import url("font.css");
+@import url("layout.css");
+@import url("header.css");
+@import url("breadcrumb.css");
+@import url("pagetitle.css");
+@import url("module.css");
+@import url("localnav.css");
+@import url("footer.css");
